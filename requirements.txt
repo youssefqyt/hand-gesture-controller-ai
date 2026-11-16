@@ -1,0 +1,5 @@
+# Python 3.10–3.12 recommended (MediaPipe wheels may lag newer Python releases).
+opencv-python>=4.9,<5
+mediapipe>=0.10.14,<0.11
+PyAutoGUI>=0.9.54,<1
+python-dotenv>=1.0,<2
